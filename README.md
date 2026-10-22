@@ -1,6 +1,9 @@
 # Ghost Records
 
-![Ghost Records - Demo Video](https://github.com/ja1sh/ghost-records/blob/c9042282604df88e411f1fc1034b1ea154e753dc/brag.mp4)
+
+
+https://github.com/user-attachments/assets/6227275a-08b0-4577-9a36-3b00f348a5f3
+
 
 
 Dangling DNS detection for AWS Elastic IPs. Finds Route53 A and CNAME records pointing at Elastic IPs your accounts no longer own — the highest-impact vector for subdomain takeover on AWS. Cross-account aware: scans multiple AWS accounts and checks DNS records against the combined EIP inventory.
